@@ -8,10 +8,3 @@ web hooks call jenkins
 
 # mahalogin
 # mahalogin
-
-test
-
-one
-two
-three..
-four
